@@ -71,8 +71,9 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 
 | Name | Address | Domain Name | UniqueIDs | Decentralized | Description |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| ZeroId | `1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz` | :heavy_check_mark: | :heavy_multiplication_x: | `zeroid.bit` | Sample trusted authorization provider |
-| CryptoId | `1oWoUktrXo1p6vkviJUyNXkGHyWznTtRH` | :heavy_multiplication_x: | :heavy_check_mark: | `cryptoid.bit` | Decentralized ID provider | 
+| ZeroId | `1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz` | `zeroid.bit` | :heavy_check_mark: | :heavy_multiplication_x: | Sample trusted authorization provider |
+| CryptoId | `1oWoUktrXo1p6vkviJUyNXkGHyWznTtRH` | `cryptoid.bit` | :heavy_multiplication_x: | :heavy_check_mark: | Decentralized ID provider | 
+| KaffieId | `1K3tM7irQqSX4Hx3JvNgkimkQzY6jPtBfz` | `kaffie.bit` | :heavy_multiplication_x: | :heavy_check_mark: | Decentralized ID provider |
 
 ## Implementations :computer:
 
