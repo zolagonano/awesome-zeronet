@@ -69,9 +69,10 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 
 ### ID Providers :page_with_curl:
 
-| Name | Address | Domain Name | Description |
-| :--- | :---: | :---: | :--- |
-| ZeroId | `1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz` | `zeroid.bit` | Sample trusted authorization provider |
+| Name | Address | Domain Name | UniqueIDs | Decentralized | Description |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| ZeroId | `1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz` | :heavy_check_mark: | :heavy_multiplication_x: | `zeroid.bit` | Sample trusted authorization provider |
+| CryptoId | `1oWoUktrXo1p6vkviJUyNXkGHyWznTtRH` | :heavy_multiplication_x: | :heavy_check_mark: | `cryptoid.bit` | Decentralized ID provider | 
 
 ## Implementations :computer:
 
