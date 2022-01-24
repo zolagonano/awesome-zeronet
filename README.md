@@ -42,6 +42,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :---: | :---: | :--- |
 | ZeroChat | `1AvF5TpcaamRNtqvN1cnDEWzNmUtD47Npg` | N/A | Original ZeroChat |
 | ThunderWave | `1CWkZv7fQAKxTVjZVrLZ8VHcrN6YGGcdky` | N/A | A beautiful chat for ZeroNet |
+| ZeroMedia | `12qKywomfW5Hj5sQPYTH9wFQVrWzgaJj66` | `zeromedia.bit` | Decentralized chat-room |
 
 #### Froums :speaking_head:
  
