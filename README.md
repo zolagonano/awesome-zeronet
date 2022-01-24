@@ -48,6 +48,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Name | Address | Domain Name | Description |
 | :--- | :---: | :---: | :--- |
 | ZeroTalk | `1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT` | `talk.zeronetwork.bit` | Decentralized forum with ZeroID |
+| The All-Night Bookstore and Cafe | `13gLfTixjjktySEGHBMnmrQu4qMJpoRuXw` | N/A | A Friendly Local Forum |
 
 #### Mail :email:
 
