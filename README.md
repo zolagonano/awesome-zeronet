@@ -78,6 +78,12 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | CryptoId | `1oWoUktrXo1p6vkviJUyNXkGHyWznTtRH` | `cryptoid.bit` | :heavy_multiplication_x: | :heavy_check_mark: | Decentralized ID provider | 
 | KaffieId | `1K3tM7irQqSX4Hx3JvNgkimkQzY6jPtBfz` | `kaffie.bit` | :heavy_multiplication_x: | :heavy_check_mark: | Decentralized ID provider |
 
+### Productivity :notebook:
+
+| Name | Address | Domain Name | Description |
+| :--- | :---: | :---: | :--- |
+| ZeroTodos | `1B8LmXYHzMGZzcRWoidAQb5SmKSyfjN63f` | N/A | Encrypted ToDo App |
+
 ## Implementations :computer:
 
 ### Python :snake:
