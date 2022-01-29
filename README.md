@@ -51,6 +51,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :---: | :---: | :--- |
 | ZeroTalk | `1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT` | `talk.zeronetwork.bit` | Decentralized forum with ZeroID |
 | The All-Night Bookstore and Cafe | `13gLfTixjjktySEGHBMnmrQu4qMJpoRuXw` | N/A | A Friendly Local Forum |
+| UnlimitTalk | `1HMLvnRWViMnuvZc5LK4Dm86sZNcSH1jdh` | N/A | For those who are cramped in ZeroTalk limits |
 
 #### Mail :email:
 
