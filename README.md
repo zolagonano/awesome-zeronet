@@ -18,7 +18,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
       - [Social Media :busts_in_silhouette:](#social-media-busts_in_silhouette)
     - [Movies :movie_camera:](#movies-movie_camera)
     - [ID Providers :page_with_curl:](#id-providers-page_with_curl)
-    - [Productivity :notebook:](#productivity_notebook)
+    - [Productivity :notebook:](#productivity-notebook)
   - [Implementations :computer:](#implementations-computer)
     - [Python :snake:](#python-snake)
     - [Rust :crab:](#rust-crap)
