@@ -86,6 +86,12 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :---: | :---: | :--- |
 | ZeroTodos | `1B8LmXYHzMGZzcRWoidAQb5SmKSyfjN63f` | N/A | Encrypted ToDo App |
 
+### Block lists
+
+| Name | Address | Domain Name | Description |
+| :--- | :---: | :---: | :--- |
+| Privact blocklist | `18zoKfKYPnVBuHtKpK1mhAuVsWXV72obA1` | N/A | Blocks websites with external files |
+
 ## Implementations
 
 ### Python
