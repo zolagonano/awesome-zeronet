@@ -20,7 +20,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
     - [ID Providers](#id-providers)
     - [Productivity](#productivity)
     - [Block lists](#block-lists)
-  - [Implementations :computer:](#implementations)
+  - [Implementations](#implementations)
     - [Python](#python)
     - [Rust](#rust)
   - [Plugins](#plugins)
