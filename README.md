@@ -9,35 +9,36 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 # Contents
 
 - [Awesome Zeronet](#awesome-zeronet)
-  - [Zites :globe_with_meridians:](#zites-globe_with_meridians)
-    - [Search Engine :mag_right:](#search-engine-mag_right)
-    - [Communication :busts_in_silhouette:](communication-busts_in_silhouette)
-      - [Chat :speech_balloon:](#chat-speech_balloon)
-      - [Froums :speaking_head:](#froums-speaking_head)
-      - [Mail :email:](#mail-email)
-      - [Social Media :busts_in_silhouette:](#social-media-busts_in_silhouette)
-    - [Movies :movie_camera:](#movies-movie_camera)
-    - [ID Providers :page_with_curl:](#id-providers-page_with_curl)
-    - [Productivity :notebook:](#productivity-notebook)
-  - [Implementations :computer:](#implementations-computer)
-    - [Python :snake:](#python-snake)
-    - [Rust :crab:](#rust-crap)
-  - [Plugins :electric_plug:](#plugins-electric_plug)
+  - [Zites](#zites)
+    - [Search Engine](#search-engine)
+    - [Communication](communication)
+      - [Chat](#chat)
+      - [Froums](#froums)
+      - [Mail](#mail)
+      - [Social Media](#social)
+    - [Movies](#movies)
+    - [ID Providers](#id-providers)
+    - [Productivity](#productivity)
+    - [Block lists](#block-lists)
+  - [Implementations :computer:](#implementations)
+    - [Python](#python)
+    - [Rust](#rust)
+  - [Plugins](#plugins)
 - [License](#license)
 
-## Zites :globe_with_meridians:
+## Zites
 
 > Zite is shortened version of ZeroNet Site.
 
-### Search Engine :mag_right:
+### Search Engine
 
 | Name | Address | Domain Name | Description |
 |:---- | :---: | :---: | :--- |
 | Kaffine Search | `1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba` | N/A | Caffeinated Search & Index |
 
-### Communication :busts_in_silhouette:
+### Communication
 
-#### Chat :speech_balloon:
+#### Chat
 
 | Name | Address | Domain Name | Description |
 | :--- | :---: | :---: | :--- |
@@ -45,7 +46,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | ThunderWave | `1CWkZv7fQAKxTVjZVrLZ8VHcrN6YGGcdky` | N/A | A beautiful chat for ZeroNet |
 | ZeroMedia | `12qKywomfW5Hj5sQPYTH9wFQVrWzgaJj66` | `zeromedia.bit` | Decentralized chat-room |
 
-#### Froums :speaking_head:
+#### Froums
  
 | Name | Address | Domain Name | Description |
 | :--- | :---: | :---: | :--- |
@@ -53,25 +54,25 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | The All-Night Bookstore and Cafe | `13gLfTixjjktySEGHBMnmrQu4qMJpoRuXw` | N/A | A Friendly Local Forum |
 | UnlimitTalk | `1HMLvnRWViMnuvZc5LK4Dm86sZNcSH1jdh` | N/A | For those who are cramped in ZeroTalk limits |
 
-#### Mail :email:
+#### Mail
 
 | Name | Address | Domain Name | Description |
 | :--- | :---: | :---: | :--- |
 | ZeroMail | `1MaiL5gfBM1cyb4a8e3iiL8L5gXmoAJu27` | `mail.zeronetwork.bit` | End-to-end encrypted messaging |
 
-#### Social Media :busts_in_silhouette:
+#### Social Media
 
 | Name | Address | Domain Name | Description |
 | :--- | :---: | :---: | :--- |
 | ZeroMe | `1MeFqFfFFGQfa1J3gJyYYUvb5Lksczq7nH` | `me.zeronetwork.bit` | Twitter-like social media |
 
-### Movies :movie_camera:
+### Movies
 
 | Name | Address | Domain Name | Description |
 | :--- | :---: | :---: | :--- |
 | Play | `1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp` | `0play.bit` | Movie torrents |
 
-### ID Providers :page_with_curl:
+### ID Providers
 
 | Name | Address | Domain Name | UniqueIDs | Decentralized | Description |
 | :--- | :---: | :---: | :---: | :---: | :--- |
@@ -79,28 +80,28 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | CryptoId | `1oWoUktrXo1p6vkviJUyNXkGHyWznTtRH` | `cryptoid.bit` | :heavy_multiplication_x: | :heavy_check_mark: | Decentralized ID provider | 
 | KaffieId | `1K3tM7irQqSX4Hx3JvNgkimkQzY6jPtBfz` | `kaffie.bit` | :heavy_multiplication_x: | :heavy_check_mark: | Decentralized ID provider |
 
-### Productivity :notebook:
+### Productivity
 
 | Name | Address | Domain Name | Description |
 | :--- | :---: | :---: | :--- |
 | ZeroTodos | `1B8LmXYHzMGZzcRWoidAQb5SmKSyfjN63f` | N/A | Encrypted ToDo App |
 
-## Implementations :computer:
+## Implementations
 
-### Python :snake:
+### Python
 
 | Repo Url | Fork | Description |
 | :--- | :---: | :--- |
 | https://github.com/HelloZeroNet/ZeroNet/ | :heavy_multiplication_x: | The Original ZeroNet |
 | https://github.com/ZeroNetX/ZeroNet | :heavy_check_mark: | A fork of ZeroNet with HiddenService v3 support |
 
-### Rust :crab:
+### Rust
 
 | Repo Url | Description |
 | :--- | :--- |
 | https://github.com/canewsin/zerunet | Rust Implementation of zeronet. Note: **This project is not completed yet**|
 
-## Plugins :electric_plug:
+## Plugins
 
 | Name | Url | Description |
 | :--- | :--- | :--- |
