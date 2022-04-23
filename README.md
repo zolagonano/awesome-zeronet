@@ -105,7 +105,8 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 
 | Repo Url | Description |
 | :--- | :--- |
-| https://github.com/canewsin/zerunet | Rust Implementation of zeronet. Note: **This project is not completed yet**|
+| https://github.com/canewsin/zerunet | Rust Implementation of zeronet. Note: **This project is not completed yet** |
+| https://github.com/canewsin/zeronet-rs | Rust Implementation of ZeroNet Core. Note: **This project is not completed yet** |
 
 ## Plugins
 
