@@ -74,11 +74,11 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 
 ### ID Providers
 
-| Name | Address | Domain Name | UniqueIDs | Decentralized | Description | Active Maintenance |
+| Name | Address | Domain Name | UniqueIDs | Centralized | Description | Active Maintenance |
 | :--- | :---: | :---: | :---: | :---: | :--- | :---: |
-| ZeroId | `1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz` | `zeroid.bit` | :heavy_check_mark: | :heavy_multiplication_x: | Sample trusted authorization provider | :heavy_multiplication_x: |
-| CryptoId | `1oWoUktrXo1p6vkviJUyNXkGHyWznTtRH` | `cryptoid.bit` | :heavy_multiplication_x: | :heavy_check_mark: | Decentralized ID provider | :heavy_multiplication_x: |
-| KaffieId | `1K3tM7irQqSX4Hx3JvNgkimkQzY6jPtBfz` | `kaffie.bit` | :heavy_multiplication_x: | :heavy_check_mark: | Decentralized ID provider | :heavy_check_mark: |
+| ZeroId | `1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz` | `zeroid.bit` | :heavy_check_mark: | :heavy_check_mark: | Sample trusted authorization provider | :heavy_multiplication_x: |
+| CryptoId | `1oWoUktrXo1p6vkviJUyNXkGHyWznTtRH` | `cryptoid.bit` | :heavy_multiplication_x: | :heavy_multiplication_x: | Decentralized ID provider | :heavy_multiplication_x: |
+| KaffieId | `1K3tM7irQqSX4Hx3JvNgkimkQzY6jPtBfz` | `kaffie.bit` | :heavy_multiplication_x: | :heavy_multiplication_x: | Decentralized ID provider | :heavy_check_mark: |
 
 ### Productivity
 
