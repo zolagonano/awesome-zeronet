@@ -53,7 +53,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | ZeroTalk | `1TaLkFrMwvbNsooF4ioKAY9EuxTBTjipT` | `talk.zeronetwork.bit` | Decentralized forum with ZeroID | :heavy_multiplication_x: |
 | The All-Night Bookstore and Cafe | `13gLfTixjjktySEGHBMnmrQu4qMJpoRuXw` | N/A | A Friendly Local Forum | :heavy_check_mark: |
 | UnlimitTalk | `1HMLvnRWViMnuvZc5LK4Dm86sZNcSH1jdh` | N/A | For those who are cramped in ZeroTalk limits | :heavy_check_mark: |
-| ThreadIt | `15UYrA7aXr2Nto1Gg4yWXpY3EAJwafMTNk` | Decentralized Forum from ZeroNetX Team | :heavy_check_mark: |
+| ThreadIt | `15UYrA7aXr2Nto1Gg4yWXpY3EAJwafMTNk` | `ThreadIt.bit` | Decentralized Forum from ZeroNetX Team | :heavy_check_mark: |
 
 #### Mail
 
