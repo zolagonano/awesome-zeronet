@@ -37,7 +37,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 |:---- | :---: | :---: | :--- | :---: |
 | Kaffine Search | `1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba` | N/A | Caffeinated Search & Index | :heavy_check_mark: |
 
-#### Site Indexes
+#### Zite Indexes
 
 | Name | Address | Domain Name | Description | Active Maintenance |
 |:---- | :---: | :---: | :--- | :---: |
