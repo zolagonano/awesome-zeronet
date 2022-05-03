@@ -11,6 +11,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 - [Awesome Zeronet](#awesome-zeronet)
   - [Zites](#zites)
     - [Search Engine](#search-engine)
+      - [Zite Indexes](#zite-indexes)
     - [Communication](communication)
       - [Chat](#chat)
       - [Froums](#froums)
@@ -36,6 +37,13 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 |:---- | :---: | :---: | :--- | :---: |
 | Kaffine Search | `1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba` | N/A | Caffeinated Search & Index | :heavy_check_mark: |
 
+#### Site Indexes
+
+| Name | Address | Domain Name | Description | Active Maintenance |
+|:---- | :---: | :---: | :--- | :---: |
+| ZeroSites | `1SiTEs2D3rCBxeMoLHXei2UYqFcxctdwB` | `Sites.ZeroNetwork.bit` | Sites of ZeroNet | :heavy_multiplication_x: |
+| ZeroSitesX | `1SitesVCdgNfHojzf2aGKQrD4dteAZR1k` | `Sites.ZeroNetX.bit` | Sites of ZeroNetX | :heavy_check_mark: |
+
 ### Communication
 
 #### Chat
@@ -60,6 +68,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
 | ZeroMail | `1MaiL5gfBM1cyb4a8e3iiL8L5gXmoAJu27` | `mail.zeronetwork.bit` | End-to-end encrypted messaging | :heavy_multiplication_x: |
+| ZeroMailX | `1MaiLX6j5MSddyu8oh5CxxGrhMcSmRo6N8` | `Mail.ZeroNetX.bit` | End-to-end encrypted messaging | :heavy_check_mark: |
 
 #### Social Media
 
