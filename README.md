@@ -25,8 +25,9 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
     - [Python](#python)
     - [Rust](#rust)
   - [Plugins](#plugins)
-  - [Guides](#guides)
+  - [Guides And Documentations](#guides-and-documentations)
     - [Installation](#installation)
+    - [Site Development](#site-development)
 - [License](#license)
 
 ## Zites
@@ -127,7 +128,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | PeerMessage Plugin | https://github.com/HelloZeroNet/Plugin-PeerMessage | It enables peer-to-peer communication via messages by extending ZeroFrame API and peer API. | :heavy_multiplication_x: |
 | Name.Yo Plugin | https://github.com/ZeroNetX/Plugin-NameYo | Centralized Domain Names for zeronet | :heavy_check_mark: | 
 
-## Guides
+## Guides and Documentations
 
 ### Installation
 
@@ -135,6 +136,14 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :--- |
 | Original ZeroNet installation guide **Note: Original ZeroNet is not maintained anymore** | https://github.com/HelloZeroNet/ZeroNet#how-to-join |
 | ZeroNetX installation guide | https://github.com/ZeroNetX/ZeroNet#how-to-join |
+
+### Site Development
+
+| Description | Url |
+| :--- | :--- |
+| Original ZeroNet's guide on site development | https://zeronet.io/docs/site_development/getting_started/ |
+| The Truth about ZeroNet by [imachug](https://github.com/imachug) | https://github.com/imachug/The-Truth-about-ZeroNet |
+| How to build a decentralized chatroom in ZeroNet | http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial ([mirror](https://zerolink.ml/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial)) |
 
 # License
 
