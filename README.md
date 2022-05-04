@@ -110,7 +110,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 
 | Repo Url | Fork | Description | Active Maintenance |
 | :--- | :---: | :--- | :---: |
-| https://github.com/HelloZeroNet/ZeroNet/ | :heavy_multiplication_x: | The Original ZeroNet Note | :heavy_multiplication_x: |
+| https://github.com/HelloZeroNet/ZeroNet/ | :heavy_multiplication_x: | The Original ZeroNet | :heavy_multiplication_x: |
 | https://github.com/ZeroNetX/ZeroNet | :heavy_check_mark: | A fork of ZeroNet with HiddenService v3 support | :heavy_check_mark: |
 
 ### Rust
