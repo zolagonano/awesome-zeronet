@@ -25,6 +25,8 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
     - [Python](#python)
     - [Rust](#rust)
   - [Plugins](#plugins)
+  - [Guides](#guides)
+    - [Installation](#installation)
 - [License](#license)
 
 ## Zites
@@ -124,6 +126,15 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :--- | :--- | :---: |
 | PeerMessage Plugin | https://github.com/HelloZeroNet/Plugin-PeerMessage | It enables peer-to-peer communication via messages by extending ZeroFrame API and peer API. | :heavy_multiplication_x: |
 | Name.Yo Plugin | https://github.com/ZeroNetX/Plugin-NameYo | Centralized Domain Names for zeronet | :heavy_check_mark: | 
+
+## Guides
+
+### Installation
+
+| Description | Url |
+| :--- | :--- |
+| Original ZeroNet installation guide **Note: Original ZeroNet is not maintained anymore** | https://github.com/HelloZeroNet/ZeroNet#how-to-join |
+| ZeroNetX installation guide | https://github.com/ZeroNetX/ZeroNet#how-to-join |
 
 # License
 
