@@ -24,6 +24,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
   - [Implementations](#implementations)
     - [Python](#python)
     - [Rust](#rust)
+    - [Go](#go)
   - [Plugins](#plugins)
   - [Guides And Documentations](#guides-and-documentations)
     - [Installation](#installation)
@@ -120,6 +121,12 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :--- | :---: |
 | https://github.com/canewsin/zerunet | Rust Implementation of zeronet. Note: **This project is not completed yet** | :heavy_check_mark: |
 | https://github.com/canewsin/zeronet-rs | Rust Implementation of ZeroNet Core. Note: **This project is not completed yet** | :heavy_check_mark: |
+
+### Go
+
+| Repo Url | Description | Active Maintenance |
+| :--- | :--- | :---: |
+| https://github.com/G1itchZero/ZeroGo | Very basic ZeroNet client implementation | :heavy_multiplication_x: |
 
 ## Plugins
 
