@@ -25,6 +25,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
     - [Python](#python)
     - [Rust](#rust)
     - [Go](#go)
+    - [Javascript](#javascript)
   - [Plugins](#plugins)
   - [Guides And Documentations](#guides-and-documentations)
     - [Installation](#installation)
@@ -127,6 +128,13 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Repo Url | Description | Active Maintenance |
 | :--- | :--- | :---: |
 | https://github.com/G1itchZero/ZeroGo | Very basic ZeroNet client implementation | :heavy_multiplication_x: |
+
+
+### Javascript
+
+| Repo Url | Description | Active Maintenance |
+| :--- | :--- | :---: |
+| https://github.com/ZeroNetJS/zeronet-js | A JS version of ZeroNet, using libp2p | :heavy_multiplication_x: |
 
 ## Plugins
 
