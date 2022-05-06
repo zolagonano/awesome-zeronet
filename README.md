@@ -106,6 +106,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
 | Privact blocklist | `18zoKfKYPnVBuHtKpK1mhAuVsWXV72obA1` | N/A | Blocks websites with external files | :heavy_check_mark: |
+| Kaffie's Spamlist | `1CufK1ZtvekbFXEpSyKT2gDjf9jnqW8KwG` | N/A | Mute/ban list for spammers | :heavy_check_mark: |
 
 ## Implementations
 
