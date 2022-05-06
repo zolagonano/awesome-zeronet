@@ -41,7 +41,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Name | Address | Domain Name | Description | Active Maintenance |
 |:---- | :---: | :---: | :--- | :---: |
 | Kaffine Search | `1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba` | N/A | Caffeinated Search & Index | :heavy_check_mark: |
-| Zoogle Zearch | `13EYKqmPpwzBU4iaQq9Y4vfVMgj8dHeLkc` | N/A | Google Search for ZeroNet |
+| Zoogle Zearch | `13EYKqmPpwzBU4iaQq9Y4vfVMgj8dHeLkc` | N/A | Google Search for ZeroNet | :heavy_check_mark: |
 
 #### Zite Indexes
 
