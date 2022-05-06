@@ -100,6 +100,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
 | ZeroTodos | `1B8LmXYHzMGZzcRWoidAQb5SmKSyfjN63f` | N/A | Encrypted ToDo App | :heavy_multiplication_x: |
+| NullPaste | `1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz` | N/A | Decentralized paste-bin | :heavy_multiplication_x: |
 
 ### Block lists
 
