@@ -97,6 +97,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | ZeroId | `1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz` | `zeroid.bit` | :heavy_check_mark: | :heavy_check_mark: | Sample trusted authorization provider | :heavy_multiplication_x: |
 | CryptoId | `1oWoUktrXo1p6vkviJUyNXkGHyWznTtRH` | `cryptoid.bit` | :heavy_multiplication_x: | :heavy_multiplication_x: | Decentralized ID provider | :heavy_multiplication_x: |
 | KaffieId | `1K3tM7irQqSX4Hx3JvNgkimkQzY6jPtBfz` | `kaffie.bit` | :heavy_multiplication_x: | :heavy_multiplication_x: | Decentralized ID provider | :heavy_check_mark: |
+| Id@ZeroVerse | `1HPgDoReCFtE9qy71hnp55ksBVvV1gHJLQ` | `zeroverse.bit` | :heavy_check_mark: | :heavy_multiplication_x: | A trusted authorization provider without a central server **Note: ZeroVerse seems to be not working anymore** | :heavy_multiplication_x: |
 
 ### Productivity
 
