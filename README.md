@@ -148,6 +148,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Repo Url | Description | Active Maintenance |
 | :--- | :--- | :---: |
 | https://github.com/HelloZeroNet/ZeroNet-kivy | A simple android client for ZeroNet | :heavy_multiplication_x: |
+| https://github.com/ZeroNetX/zeronet_mobile | ZeroNet Mobile is an Native Client for Mobile Devices running Android | :heavy_check_mark: |
 
 ## Plugins
 
