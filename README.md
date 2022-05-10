@@ -84,6 +84,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
 | ZeroMe | `1MeFqFfFFGQfa1J3gJyYYUvb5Lksczq7nH` | `me.zeronetwork.bit` | Twitter-like social media | :heavy_multiplication_x: |
+| Sakana | `1SAkaNabHzB8ovdGXxfEbmfdWkJ6ay3yt` | `sakana.bit` | An alternative frontend to ZeroMe | :heavy_multiplication_x: |
 
 ### Movies
 
