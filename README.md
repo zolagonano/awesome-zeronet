@@ -108,6 +108,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :---: | :---: | :--- | :---: |
 | ZeroTodos | `1B8LmXYHzMGZzcRWoidAQb5SmKSyfjN63f` | N/A | Encrypted ToDo App | :heavy_multiplication_x: |
 | NullPaste | `1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz` | N/A | Decentralized paste-bin | :heavy_multiplication_x: |
+| CodeR | `1CodEr7T9xNXSPcwbsvf5fHTqsixDMwDzL` | N/A | An alternative to JSFiddle and CodePen | :heavy_multiplication_x: |
 
 ### Block lists
 
