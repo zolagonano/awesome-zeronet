@@ -21,6 +21,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
     - [ID Providers](#id-providers)
     - [Productivity](#productivity)
     - [Block lists](#block-lists)
+    - [Games](#games)
   - [Implementations](#implementations)
     - [Python](#python)
     - [Rust](#rust)
@@ -116,6 +117,12 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :---: | :---: | :--- | :---: |
 | Privact blocklist | `18zoKfKYPnVBuHtKpK1mhAuVsWXV72obA1` | N/A | Blocks websites with external files | :heavy_check_mark: |
 | Kaffie's Spamlist | `1CufK1ZtvekbFXEpSyKT2gDjf9jnqW8KwG` | N/A | Mute/ban list for spammers | :heavy_check_mark: |
+
+### Games
+
+| Name | Address | Domain Name | Description | Active Maintenance |
+| :--- | :---: | :---: | :--- | :---: |
+| Zero Bird | `1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf` | N/A | Flappy Bird inside Zeronet | :heavy_check_mark: |
 
 ## Implementations
 
