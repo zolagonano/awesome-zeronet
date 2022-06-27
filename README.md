@@ -22,6 +22,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
     - [Productivity](#productivity)
     - [Block lists](#block-lists)
     - [Games](#games)
+    - [Developer tools](#developer-tools)
   - [Implementations](#implementations)
     - [Python](#python)
     - [Rust](#rust)
@@ -110,7 +111,6 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :---: | :---: | :--- | :---: |
 | ZeroTodos | `1B8LmXYHzMGZzcRWoidAQb5SmKSyfjN63f` | N/A | Encrypted ToDo App | :heavy_multiplication_x: |
 | NullPaste | `1MgHVPCE1ve6QfKrgsqCURzRj72HrRWioz` | N/A | Decentralized paste-bin | :heavy_multiplication_x: |
-| CodeR | `1CodEr7T9xNXSPcwbsvf5fHTqsixDMwDzL` | N/A | An alternative to JSFiddle and CodePen | :heavy_multiplication_x: |
 
 ### Block lists
 
@@ -125,6 +125,12 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
 | Zero Bird | `1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf` | N/A | Flappy Bird inside Zeronet | :heavy_check_mark: |
+
+### Developer tools
+
+| Name | Address | Domain Name | Description | Active Maintenance |
+| :--- | :---: | :---: | :--- | :---: |
+| CodeR | `1CodEr7T9xNXSPcwbsvf5fHTqsixDMwDzL` | N/A | An alternative to JSFiddle and CodePen | :heavy_multiplication_x: |
 
 ## Implementations
 
