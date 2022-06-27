@@ -183,6 +183,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Original ZeroNet's guide on site development | https://zeronet.io/docs/site_development/getting_started/ |
 | The Truth about ZeroNet by [imachug](https://github.com/imachug) | https://github.com/imachug/The-Truth-about-ZeroNet |
 | How to build a decentralized chatroom in ZeroNet | http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial ([mirror](https://zerolink.ml/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial)) |
+| Tutorials on site and plugin development | http://127.0.0.1:43110/DevCenter.bit/? ([mirror](https://https://0net-preview.com/DevCenter.bit/?/)) |
 
 # License
 
