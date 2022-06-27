@@ -32,7 +32,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
   - [Guides And Documentations](#guides-and-documentations)
     - [Installation](#installation)
     - [Site Development](#site-development)
-  - [Proxies(Instances)](#proxies-instances)
+  - [Proxies(Instances)](#proxiesinstances)
 - [License](#license)
 
 ## Zites
