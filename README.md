@@ -118,6 +118,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :---: | :---: | :--- | :---: |
 | Privact blocklist | `18zoKfKYPnVBuHtKpK1mhAuVsWXV72obA1` | N/A | Blocks websites with external files | :heavy_check_mark: |
 | Kaffie's Spamlist | `1CufK1ZtvekbFXEpSyKT2gDjf9jnqW8KwG` | N/A | Mute/ban list for spammers | :heavy_check_mark: |
+| NoMiner blocklist | `1NominErMMEodukCTKD5NN6HqgmtsG4Z8U` | N/A | This is a blocklist that blocks all known sites that cointains a miner | :heavy_multiplication_x: |
 
 ### Games
 
