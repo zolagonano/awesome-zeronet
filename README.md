@@ -32,6 +32,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
   - [Guides And Documentations](#guides-and-documentations)
     - [Installation](#installation)
     - [Site Development](#site-development)
+  - [Proxies(Instances)](#proxies-instances)
 - [License](#license)
 
 ## Zites
@@ -184,6 +185,14 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | The Truth about ZeroNet by [imachug](https://github.com/imachug) | https://github.com/imachug/The-Truth-about-ZeroNet |
 | How to build a decentralized chatroom in ZeroNet | http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial ([mirror](https://zerolink.ml/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial)) |
 | Tutorials on site and plugin development | http://127.0.0.1:43110/DevCenter.bit/?/ ([mirror](https://https://0net-preview.com/DevCenter.bit/?/)) |
+
+## Proxies(Instances)
+
+| Url |  Allows to add new sites |
+| :--- | :--- |
+| https://0net-preview.com | :heavy_multiplication_x: |
+| https://zerolink.ml | :heavy_check_mark: |
+| https://portal.ngnoid.tv | :heavy_check_mark: |
 
 # License
 
