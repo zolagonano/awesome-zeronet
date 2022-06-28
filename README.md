@@ -211,7 +211,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :--- |
 | https://0net-preview.com | :heavy_multiplication_x: |
 | https://zerolink.ml | :heavy_check_mark: |
-| https://portal.ngnoid.tv | :heavy_check_mark: |
+| https://portal.ngnoid.tv | :heavy_multiplication_x: |
 
 # License
 
