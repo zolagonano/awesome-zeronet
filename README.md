@@ -21,7 +21,8 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
     - [ID Providers](#id-providers)
     - [Productivity](#productivity)
     - [Block lists](#block-lists)
-    - [Games](#games)
+    - [Entertainment](#entertainment)
+      - [Games](#games)
     - [Developer tools](#developer-tools)
   - [Implementations](#implementations)
     - [Python](#python)
@@ -120,7 +121,9 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Kaffie's Spamlist | `1CufK1ZtvekbFXEpSyKT2gDjf9jnqW8KwG` | N/A | Mute/ban list for spammers | :heavy_check_mark: |
 | NoMiner blocklist | `1NominErMMEodukCTKD5NN6HqgmtsG4Z8U` | N/A | This is a blocklist that blocks all known sites that cointains a miner | :heavy_multiplication_x: |
 
-### Games
+### Entertainment
+
+#### Games
 
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
