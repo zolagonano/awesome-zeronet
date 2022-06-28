@@ -23,6 +23,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
     - [Block lists](#block-lists)
     - [Entertainment](#entertainment)
       - [Games](#games)
+      - [Webcomics](#webcomics)
     - [Developer tools](#developer-tools)
   - [Implementations](#implementations)
     - [Python](#python)
@@ -128,6 +129,12 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
 | Zero Bird | `1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf` | N/A | Flappy Bird inside Zeronet | :heavy_check_mark: |
+
+#### Webcomics
+
+| Name | Address | Domain Name | Description | Active Maintenance |
+| :--- | :---: | :---: | :--- | :---: |
+| xkcd mirror | `1XKCDh5XeLm5eN4jM8b1Mk4wKrnUJxV12` | N/A | A mirror of randall munroe's xkcd.com | :heavy_check_mark: |
 
 ### Developer tools
 
