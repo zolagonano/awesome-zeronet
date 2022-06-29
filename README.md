@@ -130,6 +130,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
 | Zero Bird | `1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf` | N/A | Flappy Bird inside Zeronet | :heavy_check_mark: |
+| Snake Game | `1JsJ1JitaLboc8pvo4fxh9dvP8mt6toPrE` | N/A | Simple snake game inside zeronet | :heavy_check_mark: |
 
 #### Webcomics
 
