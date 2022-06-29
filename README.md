@@ -132,6 +132,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Zero Bird | `1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf` | N/A | Flappy Bird inside Zeronet | :heavy_check_mark: |
 | Snake Game | `1JsJ1JitaLboc8pvo4fxh9dvP8mt6toPrE` | N/A | Simple snake game inside zeronet | :heavy_check_mark: |
 | Pac Man | `14Q1So3DH9qvHts5VuLDgqGp7yCXceujop` | N/A | PacMan inside zeronet | :heavy_check_mark: |
+| ZeroSudoku | `16Gn4QBd8iXFnDcVEcsmYw8soBKCeBezzS` | N/A | Simple Sudoku game inside zeronet | :heavy_check_mark: |
 
 #### Webcomics
 
