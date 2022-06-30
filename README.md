@@ -134,6 +134,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Pac Man | `14Q1So3DH9qvHts5VuLDgqGp7yCXceujop` | N/A | PacMan inside zeronet | :heavy_check_mark: |
 | ZeroSudoku | `16Gn4QBd8iXFnDcVEcsmYw8soBKCeBezzS` | N/A | Simple Sudoku game inside zeronet | :heavy_check_mark: |
 | Taxi Drift | `1EzPDDHciaG9AH4ErxsmAKsF4hsrJPktiM` | N/A | 2D taxi driving game | :heavy_check_mark: |
+| Game of Life | `19TrFbEUS1mdznSX24FqnxZgftzNpxCXv8` | N/A | Conway's Game of Life inside zeronet | :heavy_check_mark: |
 
 #### Webcomics
 
