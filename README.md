@@ -135,6 +135,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | ZeroSudoku | `16Gn4QBd8iXFnDcVEcsmYw8soBKCeBezzS` | N/A | Simple Sudoku game inside zeronet | :heavy_check_mark: |
 | Taxi Drift | `1EzPDDHciaG9AH4ErxsmAKsF4hsrJPktiM` | N/A | 2D taxi driving game | :heavy_check_mark: |
 | Game of Life | `19TrFbEUS1mdznSX24FqnxZgftzNpxCXv8` | N/A | Conway's Game of Life inside zeronet | :heavy_check_mark: |
+| TypinMaster | `1KNvxg3ww7ZLxZRPT8MX4tRcFxwGhWRRK3` | N/A | Simple game to test your typing speed | :heavy_check_mark: |
 
 #### Webcomics
 
