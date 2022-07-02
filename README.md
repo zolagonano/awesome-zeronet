@@ -25,6 +25,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
       - [Games](#games)
       - [Webcomics](#webcomics)
     - [Developer tools](#developer-tools)
+    - [Tracker lists](#tracker-lists)
   - [Implementations](#implementations)
     - [Python](#python)
     - [Rust](#rust)
@@ -149,6 +150,13 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :---: | :---: | :--- | :---: |
 | CodeR | `1CodEr7T9xNXSPcwbsvf5fHTqsixDMwDzL` | N/A | An alternative to JSFiddle and CodePen | :heavy_multiplication_x: |
 | Git Center | `1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t` | N/A | Git Center is a decentralized hosting platform for Git repositories | :heavy_check_mark: |
+
+### Tracker Lists
+
+| Name | Address | Domain Name | Active Maintenance |
+| :--- | :---: | :---: | :---: |
+| Syncronite | `15CEFKBRHFfAP9rmL6hhLmHoXrrgmw4B5o` | N/A | :heavy_check_mark: |
+
 
 ## Implementations
 
