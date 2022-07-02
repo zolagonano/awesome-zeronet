@@ -157,6 +157,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :---: | :---: | :---: |
 | Syncronite | `15CEFKBRHFfAP9rmL6hhLmHoXrrgmw4B5o` | N/A | :heavy_check_mark: |
 | Onion V3 trackers | `13hNAdge5ntxJmcnKzAxeLCuyowJkdvFxF` | N/A | :heavy_check_mark: |
+| Trackers Site | `1EsjAWNxu7iWVNdtAp7zZyTZmuM52jgiLQ` | N/A | :heavy_check_mark: |
 
 
 ## Implementations
