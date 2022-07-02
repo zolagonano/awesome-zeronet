@@ -47,7 +47,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 
 | Name | Address | Domain Name | Description | Active Maintenance |
 |:---- | :---: | :---: | :--- | :---: |
-| Kaffine Search | `1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba` | `zerosearch.bit` | Caffeinated Search & Index | :heavy_check_mark: |
+| Kaffiene Search | `1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba` | `zerosearch.bit` | Caffeinated Search & Index | :heavy_check_mark: |
 | Zoogle Zearch | `13EYKqmPpwzBU4iaQq9Y4vfVMgj8dHeLkc` | N/A | Google Search for ZeroNet | :heavy_check_mark: |
 | Dream Search | `1JBFNPrAGp1nQX6RsAN6oRqCfvtoeWoion` | N/A | Dream Search - The most data scanning search engine in ZeroNet | :heavy_check_mark: |
 | Search And Index Zites | `1xiwbXaTbo9XU32hEpW4NyjZHrugSFdo6` | N/A | A Simple search engine and index | :heavy_check_mark: |
