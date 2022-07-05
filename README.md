@@ -167,6 +167,8 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 
 ### Python
 
+**Note:** The original version of ZeroNet is not maintained anymore, and using it is not recommended, so please consider using other forks of the project.
+
 | Repo Url | Fork | Description | Active Maintenance |
 | :--- | :---: | :--- | :---: |
 | https://github.com/HelloZeroNet/ZeroNet/ | :heavy_multiplication_x: | The Original ZeroNet | :heavy_multiplication_x: |
