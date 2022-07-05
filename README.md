@@ -81,6 +81,8 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 
 #### Mail
 
+**Note:** Email services that are built based on ZeroMail are End-to-End encrypted and nobody should be able to see the actual message you're sending, but the username of senders and receptors are publicly available.
+
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
 | ZeroMail | `1MaiL5gfBM1cyb4a8e3iiL8L5gXmoAJu27` | `mail.zeronetwork.bit` | End-to-end encrypted messaging | :heavy_multiplication_x: |
