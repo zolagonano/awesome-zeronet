@@ -230,6 +230,10 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 
 ## Proxies(Instances)
 
+> ZeroNet Proxies are ZeroNet clients that are accessible through the clearnet without having to install and run the ZeroNet client.
+
+**WARNING: _Do not sign in into ZeroNet through public proxies as proxies have access to the private keys and there is chance for your identity to get stolen by the proxy._ **
+
 | Url |  Allows to add new sites |
 | :--- | :--- |
 | https://0net-preview.com | :heavy_multiplication_x: |
