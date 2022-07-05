@@ -173,6 +173,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :---: | :--- | :---: |
 | https://github.com/HelloZeroNet/ZeroNet/ | :heavy_multiplication_x: | The Original ZeroNet | :heavy_multiplication_x: |
 | https://github.com/ZeroNetX/ZeroNet | :heavy_check_mark: | A fork of ZeroNet with HiddenService v3 support | :heavy_check_mark: |
+| https://github.com/zeronet-conservancy/zeronet-conservancy | :heavy_check_mark: | A fork of ZeroNet that is dedicated to sustaining existing p2p network and developing its values of decentralization and freedom, while gradually switching to a better designed network | :heavy_check_mark: |
 
 ### Rust
 
