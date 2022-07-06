@@ -37,6 +37,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
     - [Installation](#installation)
     - [Site Development](#site-development)
   - [Proxies(Instances)](#proxiesinstances)
+  - [Communities](#communities)
 - [License](#license)
 
 ## Zites
@@ -239,6 +240,10 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | https://0net-preview.com | :heavy_multiplication_x: |
 | https://zerolink.ml | :heavy_check_mark: |
 | https://portal.ngnoid.tv | :heavy_multiplication_x: |
+
+## Communities
+
+- Zeronet community on Reddit https://reddit.com/r/zeronet
 
 # License
 
