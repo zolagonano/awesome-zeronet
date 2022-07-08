@@ -39,6 +39,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
     - [Site Development](#site-development)
   - [Proxies(Instances)](#proxiesinstances)
   - [Communities](#communities)
+- [Support/Donation](#supportdonation)
 - [License](#license)
 
 ## Zites
@@ -252,6 +253,15 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 ## Communities
 
 - Zeronet community on Reddit https://reddit.com/r/zeronet
+
+# Support/Donation
+
+You can support me and this project by sharing it or sending me cryptocurrencies :)
+
+- Monero ([QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/xmr_qr.png)): `8AF4Lybz7QwiucdYW2szsgiqTHdBp5kjZSSRm6ddzd5363S6n4jixpkACGMLx5JWZnUR5MnGF7cMoidjppruAvLvMe2ovHZ`
+- Bitcoin ([QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/btc_qr.png)): `bc1qtya7nc42xff4w8rw6xa9zeqhdk4s3telvklcgy`
+- Litecoin ([QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/ltc_qr.png)): `ltc1qc3unssu58qjrqdnnl8pxep9259khfwz46un2cd`
+- BitcoinCash ([QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/bch_qr.png)): `qq9gvne3p7sa678j9y3y32ersju83elumclvknqm9h`
 
 # License
 
