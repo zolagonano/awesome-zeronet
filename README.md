@@ -169,6 +169,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
 | ZeroUp | `1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc` | N/A | Upload and share files using BitTorrent | :heavy_multiplication_x: |
+| StoreAge | `1UPLoADsqDWzMEyqLNin8GPcWoqiihu1g` | `StorAge.ZeroNetX.bit` | Upload and share files using BitTorrent | :heavy_check_mark: |
 
 ## Implementations
 
