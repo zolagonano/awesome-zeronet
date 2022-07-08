@@ -170,6 +170,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :---: | :---: | :--- | :---: |
 | ZeroUp | `1uPLoaDwKzP6MCGoVzw48r4pxawRBdmQc` | N/A | Upload and share files using BitTorrent | :heavy_multiplication_x: |
 | StoreAge | `1UPLoADsqDWzMEyqLNin8GPcWoqiihu1g` | `StorAge.ZeroNetX.bit` | Upload and share files using BitTorrent | :heavy_check_mark: |
+| IFS | `12MVkvYGcRW6u2NYbpfwVad1oQeyG4s9Er` | N/A | Upload and share files, videos, music, books, games, and etc | :heavy_multiplication_x: |
 
 ## Implementations
 
