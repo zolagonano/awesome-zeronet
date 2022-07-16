@@ -88,6 +88,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | 1stZC: Talks: General | `1fznctFebYHnmjmFZCmAWPd7nnamAy3Tg` | N/A | 1stZC's general forum | :heavy_check_mark: |
 | 1stZC: ZeroNet Support | `1fznc4VQbbrQAf4UzHrWS6W2mpGFqXSeD` | N/A | 1stZC's support forum | :heavy_check_mark: |
 | 1stZC: Talks: Politics | `1fzncJdLpbsT5eeeYP14EKSaStHhtn5LY` | N/A | 1stZC's politics forum | :heavy_check_mark: |
+| Programming.net | `17YUF4geTD7gBDPeMtQtnV7uhhNcjrYi9u` | N/A | A forum about programming | :heavy_check_mark: |
 
 #### Mail
 
