@@ -14,7 +14,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
       - [Zite Indexes](#zite-indexes)
     - [Communication](communication)
       - [Chat](#chat)
-      - [Froums](#froums)
+      - [Forums](#forums)
       - [Mail](#mail)
       - [Social Media](#social)
     - [Movies](#movies)
@@ -72,7 +72,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | ThunderWave | `1CWkZv7fQAKxTVjZVrLZ8VHcrN6YGGcdky` | N/A | A beautiful chat for ZeroNet | :heavy_multiplication_x: |
 | ZeroMedia | `12qKywomfW5Hj5sQPYTH9wFQVrWzgaJj66` | `zeromedia.bit` | Decentralized chat-room | :heavy_multiplication_x: |
 
-#### Froums
+#### Forums
  
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
@@ -84,8 +84,8 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | ZeroTalk++ | `1EgyL4nj9DmeSSQg3fytxGJjihxtmMon5y` | N/A | Decentralized forum engine | :heavy_check_mark: |
 | Linux.net | `16Go5kc2U9Ff4jeaY8kYiDEgpMYdgyboPY` | N/A | Discussion about Linux | :heavy_check_mark: |
 | ZeroTalk Tech | `1EfLnw7GDXbZfJmGNoXGQ4XkuHGWkRZTMq` | N/A | Talk about Anything having to do with Technology | :heavy_check_mark: |
-| 1stZC: ZeroNet Development | `1fznczNZUMEMvCiqSmCZGUiv5sVnRcsTD` | N/A | 1stZC's ZeroNet Development froum | :heavy_check_mark: |
-| 1stZC: Talks: General | `1fznctFebYHnmjmFZCmAWPd7nnamAy3Tg` | N/A | 1stZC's general froum | :heavy_check_mark: |
+| 1stZC: ZeroNet Development | `1fznczNZUMEMvCiqSmCZGUiv5sVnRcsTD` | N/A | 1stZC's ZeroNet Development forum | :heavy_check_mark: |
+| 1stZC: Talks: General | `1fznctFebYHnmjmFZCmAWPd7nnamAy3Tg` | N/A | 1stZC's general forum | :heavy_check_mark: |
 
 #### Mail
 
