@@ -86,6 +86,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | ZeroTalk Tech | `1EfLnw7GDXbZfJmGNoXGQ4XkuHGWkRZTMq` | N/A | Talk about Anything having to do with Technology | :heavy_check_mark: |
 | 1stZC: ZeroNet Development | `1fznczNZUMEMvCiqSmCZGUiv5sVnRcsTD` | N/A | 1stZC's ZeroNet Development forum | :heavy_check_mark: |
 | 1stZC: Talks: General | `1fznctFebYHnmjmFZCmAWPd7nnamAy3Tg` | N/A | 1stZC's general forum | :heavy_check_mark: |
+| 1stZC: ZeroNet Support | `1fznc4VQbbrQAf4UzHrWS6W2mpGFqXSeD` | N/A | 1stZC's support forum | :heavy_check_mark: |
 
 #### Mail
 
