@@ -81,6 +81,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | UnlimitTalk | `1HMLvnRWViMnuvZc5LK4Dm86sZNcSH1jdh` | N/A | For those who are cramped in ZeroTalk limits | :heavy_check_mark: |
 | ThreadIt | `15UYrA7aXr2Nto1Gg4yWXpY3EAJwafMTNk` | `ThreadIt.bit` | Decentralized Forum from ZeroNetX Team | :heavy_check_mark: |
 | NetTalk | `1LfvE91ZF18jdG3wW62Dw7NtfTZh737KPL` | N/A | Discussion about interne…s and other electronics | :heavy_check_mark: |
+| ZeroTalk++ | `1EgyL4nj9DmeSSQg3fytxGJjihxtmMon5y` | N/A | Decentralized forum engine | :heavy_check_mark: |
 
 #### Mail
 
