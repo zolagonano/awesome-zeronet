@@ -90,6 +90,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | 1stZC: Talks: Politics | `1fzncJdLpbsT5eeeYP14EKSaStHhtn5LY` | N/A | 1stZC's politics forum | :heavy_check_mark: |
 | Programming.net | `17YUF4geTD7gBDPeMtQtnV7uhhNcjrYi9u` | N/A | A forum about programming | :heavy_check_mark: |
 | ZeroNet DevZone | `18ryVioVmwFYzhRZKTjKqGYCjkUjoxH3k6` | N/A | ZeroNet core & plugins: issues, pull requests, ideas, RFCs and documentation | :heavy_check_mark: |
+| ZeroDev Talk | `142jqssVAj2iRxMACJg2dzipB5oicZYz5w` | N/A | Place for developers to collaborate | :heavy_check_mark: |
 
 #### Mail
 
