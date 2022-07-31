@@ -1,6 +1,13 @@
+<p align="center">
+  <br>
+  <a href="https://zeronet.io"><img width="100" src="./assets/logo.png" alt="ZeroNet's logo"></a>
+  <br>
+</p>
+
+
 # Awesome Zeronet [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) implementations, plugins, tools, and zites. <img alt="Zeronet's Logo" src="logo.png" width=50px></img>
+An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) implementations, plugins, tools, and zites. 
 
 > ZeroNet is a decentralized web-like network of peer-to-peer users.
 
