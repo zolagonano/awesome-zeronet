@@ -1,10 +1,10 @@
-# Awesome Zeronet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Zeronet [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) implementations, plugins, tools, and zites.
 
 > ZeroNet is a decentralized web-like network of peer-to-peer users.
 
-# Contents
+## Contents
 
 - [Zites](#zites)
   - [Search Engines](#search-engines)
@@ -17,16 +17,16 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
   - [ID Providers](#id-providers)
   - [Productivity Tools](#productivity-tools)
   - [Block lists](#block-lists)
-  - [Entertaining Zites](#entertaining Zites)
+  - [Entertaining Zites](#entertaining-zites)
   - [Games](#games)
-  - [Developer tools](#developer-tools)
-  - [Tracker lists](#tracker-lists)
+  - [Developer Tools](#developer-tools)
+  - [Tracker Lists](#tracker-lists)
   - [File Sharing Zites](#file-sharing-zites)
 - [Implementations](#implementations)
   - [Python](#python)
   - [Rust](#rust)
   - [Go](#go)
-  - [Javascript](#javascript)
+  - [JavaScript](#javascript)
   - [Android Clients](#android-clients)
 - [Plugins](#plugins)
 - [Guides And Documentations](#guides-and-documentations)
@@ -35,7 +35,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 - [Proxies(Instances)](#proxiesinstances)
 - [Communities](#communities)
 
-# Zites
+## Zites
 
 > Zite is shortened version of ZeroNet Site.
 
@@ -149,7 +149,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | TypinMaster | `1KNvxg3ww7ZLxZRPT8MX4tRcFxwGhWRRK3` | N/A | Simple game to test your typing speed | :heavy_check_mark: |
 
 
-### Developer tools
+### Developer Tools
 
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
@@ -198,7 +198,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | :--- | :--- | :---: |
 | https://github.com/G1itchZero/ZeroGo | Very basic ZeroNet client implementation | :heavy_multiplication_x: |
 
-### Javascript
+### JavaScript
 
 | Repo Url | Description | Active Maintenance |
 | :--- | :--- | :---: |
@@ -219,7 +219,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Name.Yo Plugin | https://github.com/ZeroNetX/Plugin-NameYo | Centralized Domain Names for zeronet | :heavy_check_mark: | 
 | Name.Trust Plugin | http://127.0.0.1:43110/1PtFxzJ8NECkYQzziGWoEfzScD6NiEgqDY ([mirror](https://zerolink.ml/1PtFxzJ8NECkYQzziGWoEfzScD6NiEgqDY), [Official GitHub Mirror](https://github.com/rdp-studio/0net-NameTRUST-Resolver)) | Centralized Domain Names for zeronet | :heavy_check_mark: |
 
-## Guides and Documentations
+## Guides And Documentations
 
 ### Installation
 
@@ -240,8 +240,6 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 
 ## Proxies(Instances)
 
-> ZeroNet Proxies are ZeroNet clients that are accessible through the clearnet without having to install and run the ZeroNet client.
-
 **WARNING: _Do not sign in into ZeroNet through public proxies as proxies have access to the private keys and there is chance for your identity to get stolen by the proxy._**
 
 | Url |  Allows to add new sites |
@@ -254,7 +252,10 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 
 - Zeronet community on Reddit https://reddit.com/r/zeronet
 
-## Support/Donation
+
+## Footnotes
+
+### Support/Donation
 
 You can support me and this project by sharing it or sending me cryptocurrencies :)
 
