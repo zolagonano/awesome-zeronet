@@ -8,44 +8,40 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 
 # Contents
 
-- [Awesome Zeronet](#awesome-zeronet)
-  - [Zites](#zites)
-    - [Search Engine](#search-engine)
-      - [Zite Indexes](#zite-indexes)
-    - [Communication](communication)
-      - [Chat](#chat)
-      - [Forums](#forums)
-      - [Mail](#mail)
-      - [Social Media](#social)
-    - [Movies](#movies)
-    - [ID Providers](#id-providers)
-    - [Productivity](#productivity)
-    - [Block lists](#block-lists)
-    - [Entertainment](#entertainment)
-      - [Games](#games)
-      - [Webcomics](#webcomics)
-    - [Developer tools](#developer-tools)
-    - [Tracker lists](#tracker-lists)
-    - [File Sharing](#file-sharing)
-  - [Implementations](#implementations)
-    - [Python](#python)
-    - [Rust](#rust)
-    - [Go](#go)
-    - [Javascript](#javascript)
-    - [Android Clients](#android-clients)
-  - [Plugins](#plugins)
-  - [Guides And Documentations](#guides-and-documentations)
-    - [Installation](#installation)
-    - [Site Development](#site-development)
-  - [Proxies(Instances)](#proxiesinstances)
-  - [Communities](#communities)
-- [Support/Donation](#supportdonation)
+- [Zites](#zites)
+  - [Search Engines](#search-engines)
+  - [Zite Indexes](#zite-indexes)
+  - [Chat Rooms](#chat-rooms)
+  - [Forums](#forums)
+  - [Mail Providers](#mail-providers)
+  - [Social Media Zites](#social-media-zites)
+  - [Movies](#movies)
+  - [ID Providers](#id-providers)
+  - [Productivity Tools](#productivity-tools)
+  - [Block lists](#block-lists)
+  - [Entertaining Zites](#entertaining Zites)
+  - [Games](#games)
+  - [Developer tools](#developer-tools)
+  - [Tracker lists](#tracker-lists)
+  - [File Sharing Zites](#file-sharing-zites)
+- [Implementations](#implementations)
+  - [Python](#python)
+  - [Rust](#rust)
+  - [Go](#go)
+  - [Javascript](#javascript)
+  - [Android Clients](#android-clients)
+- [Plugins](#plugins)
+- [Guides And Documentations](#guides-and-documentations)
+  - [Installation](#installation)
+  - [Site Development](#site-development)
+- [Proxies(Instances)](#proxiesinstances)
+- [Communities](#communities)
 
-## Zites
+# Zites
 
 > Zite is shortened version of ZeroNet Site.
 
-### Search Engine
+### Search Engines
 
 | Name | Address | Domain Name | Description | Active Maintenance |
 |:---- | :---: | :---: | :--- | :---: |
@@ -54,16 +50,14 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Dream Search | `1JBFNPrAGp1nQX6RsAN6oRqCfvtoeWoion` | N/A | Dream Search - The most data scanning search engine in ZeroNet | :heavy_check_mark: |
 | Search And Index Zites | `1xiwbXaTbo9XU32hEpW4NyjZHrugSFdo6` | N/A | A Simple search engine and index | :heavy_check_mark: |
 
-#### Zite Indexes
+### Zite Indexes
 
 | Name | Address | Domain Name | Description | Active Maintenance |
 |:---- | :---: | :---: | :--- | :---: |
 | ZeroSites | `1SiTEs2D3rCBxeMoLHXei2UYqFcxctdwB` | `Sites.ZeroNetwork.bit` | Sites of ZeroNet | :heavy_multiplication_x: |
 | ZeroSitesX | `1SitesVCdgNfHojzf2aGKQrD4dteAZR1k` | `Sites.ZeroNetX.bit` | Sites of ZeroNetX | :heavy_check_mark: |
 
-### Communication
-
-#### Chat
+### Chat Rooms
 
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
@@ -71,7 +65,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | ThunderWave | `1CWkZv7fQAKxTVjZVrLZ8VHcrN6YGGcdky` | N/A | A beautiful chat for ZeroNet | :heavy_multiplication_x: |
 | ZeroMedia | `12qKywomfW5Hj5sQPYTH9wFQVrWzgaJj66` | `zeromedia.bit` | Decentralized chat-room | :heavy_multiplication_x: |
 
-#### Forums
+### Forums
  
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
@@ -91,7 +85,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | ZeroNet DevZone | `18ryVioVmwFYzhRZKTjKqGYCjkUjoxH3k6` | N/A | ZeroNet core & plugins: issues, pull requests, ideas, RFCs and documentation | :heavy_check_mark: |
 | ZeroDev Talk | `142jqssVAj2iRxMACJg2dzipB5oicZYz5w` | N/A | Place for developers to collaborate | :heavy_check_mark: |
 
-#### Mail
+### Mail Providers
 
 **Note:** Email services that are built based on ZeroMail are End-to-End encrypted and nobody should be able to see the actual message you're sending, but the username of senders and receptors are publicly available.
 
@@ -100,7 +94,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | ZeroMail | `1MaiL5gfBM1cyb4a8e3iiL8L5gXmoAJu27` | `mail.zeronetwork.bit` | End-to-end encrypted messaging | :heavy_multiplication_x: |
 | ZeroMailX | `1MaiLX6j5MSddyu8oh5CxxGrhMcSmRo6N8` | `Mail.ZeroNetX.bit` | End-to-end encrypted messaging | :heavy_check_mark: |
 
-#### Social Media
+### Social Media Zites
 
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
@@ -123,7 +117,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Id@ZeroVerse | `1HPgDoReCFtE9qy71hnp55ksBVvV1gHJLQ` | `zeroverse.bit` | :heavy_check_mark: | :heavy_multiplication_x: | A trusted authorization provider without a central server **Note: ZeroVerse seems to be not working anymore** | :heavy_multiplication_x: |
 | KxoId | `1GTVetvjTEriCMzKzWSP9FahYoMPy6BG1P` | `kxonet.bit` | :heavy_check_mark: | :heavy_multiplication_x: | Semi-centralized id provider **Note: KxoId is not working anymore** | :heavy_multiplication_x: |
 
-### Productivity
+### Productivity Tools
 
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
@@ -138,9 +132,13 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Kaffie's Spamlist | `1CufK1ZtvekbFXEpSyKT2gDjf9jnqW8KwG` | N/A | Mute/ban list for spammers | :heavy_check_mark: |
 | NoMiner blocklist | `1NominErMMEodukCTKD5NN6HqgmtsG4Z8U` | N/A | This is a blocklist that blocks all known sites that cointains a miner | :heavy_multiplication_x: |
 
-### Entertainment
+### Entertaining Zites
 
-#### Games
+| Name | Address | Domain Name | Description | Active Maintenance |
+| :--- | :---: | :---: | :--- | :---: |
+| xkcd mirror | `1XKCDh5XeLm5eN4jM8b1Mk4wKrnUJxV12` | N/A | A mirror of randall munroe's xkcd.com | :heavy_check_mark: |
+
+### Games
 
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
@@ -152,11 +150,6 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Game of Life | `19TrFbEUS1mdznSX24FqnxZgftzNpxCXv8` | N/A | Conway's Game of Life inside zeronet | :heavy_check_mark: |
 | TypinMaster | `1KNvxg3ww7ZLxZRPT8MX4tRcFxwGhWRRK3` | N/A | Simple game to test your typing speed | :heavy_check_mark: |
 
-#### Webcomics
-
-| Name | Address | Domain Name | Description | Active Maintenance |
-| :--- | :---: | :---: | :--- | :---: |
-| xkcd mirror | `1XKCDh5XeLm5eN4jM8b1Mk4wKrnUJxV12` | N/A | A mirror of randall munroe's xkcd.com | :heavy_check_mark: |
 
 ### Developer tools
 
@@ -174,7 +167,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 | Trackers Site | `1EsjAWNxu7iWVNdtAp7zZyTZmuM52jgiLQ` | N/A | :heavy_check_mark: |
 | Yggdrasil trackers | `1Bd2mgwbxQAHdHnWyDD7URBLDuwxxybw8t` | N/A | :heavy_check_mark: |
 
-### File Sharing
+### File Sharing Zites
 
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
@@ -263,7 +256,7 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
 
 - Zeronet community on Reddit https://reddit.com/r/zeronet
 
-# Support/Donation
+## Support/Donation
 
 You can support me and this project by sharing it or sending me cryptocurrencies :)
 
