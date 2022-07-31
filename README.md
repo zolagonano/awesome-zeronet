@@ -1,6 +1,4 @@
-# Awesome Zeronet
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Zeronet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) implementations, plugins, tools, and zites.
 
