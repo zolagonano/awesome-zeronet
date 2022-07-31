@@ -40,7 +40,6 @@ An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) im
   - [Proxies(Instances)](#proxiesinstances)
   - [Communities](#communities)
 - [Support/Donation](#supportdonation)
-- [License](#license)
 
 ## Zites
 
@@ -273,6 +272,3 @@ You can support me and this project by sharing it or sending me cryptocurrencies
 - Litecoin ([QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/ltc_qr.png)): `ltc1qc3unssu58qjrqdnnl8pxep9259khfwz46un2cd`
 - BitcoinCash ([QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/bch_qr.png)): `qq9gvne3p7sa678j9y3y32ersju83elumclvknqm9h`
 
-# License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
