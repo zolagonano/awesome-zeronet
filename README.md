@@ -7,9 +7,9 @@
 
 # Awesome Zeronet [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) implementations, plugins, tools, and zites. 
+> An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) implementations, plugins, tools, and zites. 
 
-> ZeroNet is a decentralized web-like network of peer-to-peer users.
+ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 ## Contents
 
