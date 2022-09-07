@@ -224,7 +224,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | :--- | :--- | :--- | :---: |
 | PeerMessage Plugin | https://github.com/HelloZeroNet/Plugin-PeerMessage | It enables peer-to-peer communication via messages by extending ZeroFrame API and peer API. | :heavy_multiplication_x: |
 | Name.Yo Plugin | https://github.com/ZeroNetX/Plugin-NameYo | Centralized Domain Names for zeronet | :heavy_check_mark: | 
-| Name.Trust Plugin | http://127.0.0.1:43110/1PtFxzJ8NECkYQzziGWoEfzScD6NiEgqDY ([mirror](https://zerolink.ml/1PtFxzJ8NECkYQzziGWoEfzScD6NiEgqDY), [Official GitHub Mirror](https://github.com/rdp-studio/0net-NameTRUST-Resolver)) | Centralized Domain Names for zeronet | :heavy_check_mark: |
+| Name.Trust Plugin | http://127.0.0.1:43110/1PtFxzJ8NECkYQzziGWoEfzScD6NiEgqDY ([mirror](https://proxy.zeronet.dev/1PtFxzJ8NECkYQzziGWoEfzScD6NiEgqDY), [Official GitHub Mirror](https://github.com/rdp-studio/0net-NameTRUST-Resolver)) | Centralized Domain Names for zeronet | :heavy_check_mark: |
 
 ## Guides And Documentations
 
@@ -241,7 +241,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | :--- | :--- |
 | Original ZeroNet's guide on site development | https://zeronet.io/docs/site_development/getting_started/ |
 | The Truth about ZeroNet by [imachug](https://github.com/imachug) | https://github.com/imachug/The-Truth-about-ZeroNet |
-| How to build a decentralized chatroom in ZeroNet | http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial ([mirror](https://zerolink.ml/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial)) |
+| How to build a decentralized chatroom in ZeroNet | http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial ([mirror](https://proxy.zeronet.dev/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial)) |
 | Tutorials on site and plugin development | http://127.0.0.1:43110/DevCenter.bit/?/ ([mirror](https://https://0net-preview.com/DevCenter.bit/?/)) |
 | Wiki on zeronet site development | http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP ([mirror](https://0net-preview.com/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP)) |
 
@@ -252,7 +252,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Url |  Allows to add new sites |
 | :--- | :--- |
 | https://0net-preview.com | :heavy_multiplication_x: |
-| https://zerolink.ml | :heavy_check_mark: |
+| https://proxy.zeronet.dev | :heavy_check_mark: |
 | https://portal.ngnoid.tv | :heavy_multiplication_x: |
 
 ## Communities
