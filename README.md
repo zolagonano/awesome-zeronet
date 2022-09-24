@@ -252,7 +252,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Url |  Allows to add new sites |
 | :--- | :--- |
 | https://0net-preview.com | :heavy_multiplication_x: |
-| https://proxy.zeronet.dev | :heavy_check_mark: |
+| https://proxy.zeronet.dev | :heavy_multiplication_x: |
 | https://portal.ngnoid.tv | :heavy_multiplication_x: |
 
 ## Communities
