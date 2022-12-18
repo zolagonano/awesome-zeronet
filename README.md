@@ -5,7 +5,7 @@
 </p>
 
 
-# Awesome Zeronet [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome ZeroNet [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > An Awesome & curated list of [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) implementations, plugins, tools, and zites. 
 
@@ -147,12 +147,12 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 | Name | Address | Domain Name | Description | Active Maintenance |
 | :--- | :---: | :---: | :--- | :---: |
-| Zero Bird | `1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf` | N/A | Flappy Bird inside Zeronet | :heavy_check_mark: |
-| Snake Game | `1JsJ1JitaLboc8pvo4fxh9dvP8mt6toPrE` | N/A | Simple snake game inside zeronet | :heavy_check_mark: |
-| Pac Man | `14Q1So3DH9qvHts5VuLDgqGp7yCXceujop` | N/A | PacMan inside zeronet | :heavy_check_mark: |
-| ZeroSudoku | `16Gn4QBd8iXFnDcVEcsmYw8soBKCeBezzS` | N/A | Simple Sudoku game inside zeronet | :heavy_check_mark: |
+| Zero Bird | `1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf` | N/A | Flappy Bird inside ZeroNet | :heavy_check_mark: |
+| Snake Game | `1JsJ1JitaLboc8pvo4fxh9dvP8mt6toPrE` | N/A | Simple snake game inside ZeroNet | :heavy_check_mark: |
+| Pac Man | `14Q1So3DH9qvHts5VuLDgqGp7yCXceujop` | N/A | PacMan inside ZeroNet | :heavy_check_mark: |
+| ZeroSudoku | `16Gn4QBd8iXFnDcVEcsmYw8soBKCeBezzS` | N/A | Simple Sudoku game inside ZeroNet | :heavy_check_mark: |
 | Taxi Drift | `1EzPDDHciaG9AH4ErxsmAKsF4hsrJPktiM` | N/A | 2D taxi driving game | :heavy_check_mark: |
-| Game of Life | `19TrFbEUS1mdznSX24FqnxZgftzNpxCXv8` | N/A | Conway's Game of Life inside zeronet | :heavy_check_mark: |
+| Game of Life | `19TrFbEUS1mdznSX24FqnxZgftzNpxCXv8` | N/A | Conway's Game of Life inside ZeroNet | :heavy_check_mark: |
 | TypinMaster | `1KNvxg3ww7ZLxZRPT8MX4tRcFxwGhWRRK3` | N/A | Simple game to test your typing speed | :heavy_check_mark: |
 
 
@@ -187,7 +187,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 **Note:** The original version of ZeroNet is not maintained anymore, and using it is not recommended, so please consider using other forks of the project.
 
-| Repo Url | Fork | Description | Active Maintenance |
+| Repo URL | Fork | Description | Active Maintenance |
 | :--- | :---: | :--- | :---: |
 | https://github.com/HelloZeroNet/ZeroNet/ | :heavy_multiplication_x: | The Original ZeroNet | :heavy_multiplication_x: |
 | https://github.com/ZeroNetX/ZeroNet | :heavy_check_mark: | A fork of ZeroNet with HiddenService v3 support | :heavy_check_mark: |
@@ -195,62 +195,62 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 ### Rust
 
-| Repo Url | Description | Active Maintenance |
+| Repo URL | Description | Active Maintenance |
 | :--- | :--- | :---: |
-| https://github.com/canewsin/zerunet | Rust Implementation of zeronet. Note: **This project is not completed yet** | :heavy_check_mark: |
+| https://github.com/canewsin/zerunet | Rust Implementation of ZeroNet. Note: **This project is not completed yet** | :heavy_check_mark: |
 | https://github.com/canewsin/zeronet-rs | Rust Implementation of ZeroNet Core. Note: **This project is not completed yet** | :heavy_check_mark: |
 
 ### Go
 
-| Repo Url | Description | Active Maintenance |
+| Repo URL | Description | Active Maintenance |
 | :--- | :--- | :---: |
 | https://github.com/G1itchZero/ZeroGo | Very basic ZeroNet client implementation | :heavy_multiplication_x: |
 
 ### JavaScript
 
-| Repo Url | Description | Active Maintenance |
+| Repo URL | Description | Active Maintenance |
 | :--- | :--- | :---: |
 | https://github.com/ZeroNetJS/zeronet-js | A JS version of ZeroNet, using libp2p | :heavy_multiplication_x: |
 
 ### Android Clients
 
-| Repo Url | Description | Active Maintenance |
+| Repo URL | Description | Active Maintenance |
 | :--- | :--- | :---: |
 | https://github.com/HelloZeroNet/ZeroNet-kivy | A simple android client for ZeroNet | :heavy_multiplication_x: |
 | https://github.com/ZeroNetX/zeronet_mobile | ZeroNet Mobile is an Native Client for Mobile Devices running Android | :heavy_check_mark: |
 
 ## Plugins
 
-| Name | Url | Description | Active Maintenance |
+| Name | URL | Description | Active Maintenance |
 | :--- | :--- | :--- | :---: |
 | PeerMessage Plugin | https://github.com/HelloZeroNet/Plugin-PeerMessage | It enables peer-to-peer communication via messages by extending ZeroFrame API and peer API. | :heavy_multiplication_x: |
-| Name.Yo Plugin | https://github.com/ZeroNetX/Plugin-NameYo | Centralized Domain Names for zeronet | :heavy_check_mark: | 
-| Name.Trust Plugin | http://127.0.0.1:43110/1PtFxzJ8NECkYQzziGWoEfzScD6NiEgqDY ([mirror](https://proxy.zeronet.dev/1PtFxzJ8NECkYQzziGWoEfzScD6NiEgqDY), [Official GitHub Mirror](https://github.com/rdp-studio/0net-NameTRUST-Resolver)) | Centralized Domain Names for zeronet | :heavy_check_mark: |
+| Name.Yo Plugin | https://github.com/ZeroNetX/Plugin-NameYo | Centralized Domain Names for ZeroNet | :heavy_check_mark: | 
+| Name.Trust Plugin | http://127.0.0.1:43110/1PtFxzJ8NECkYQzziGWoEfzScD6NiEgqDY ([mirror](https://proxy.zeronet.dev/1PtFxzJ8NECkYQzziGWoEfzScD6NiEgqDY), [Official GitHub Mirror](https://github.com/rdp-studio/0net-NameTRUST-Resolver)) | Centralized Domain Names for ZeroNet | :heavy_check_mark: |
 
 ## Guides And Documentations
 
 ### Installation
 
-| Description | Url |
+| Description | URL |
 | :--- | :--- |
 | Original ZeroNet installation guide **Note: Original ZeroNet is not maintained anymore** | https://github.com/HelloZeroNet/ZeroNet#how-to-join |
 | ZeroNetX installation guide | https://github.com/ZeroNetX/ZeroNet#how-to-join |
 
 ### Site Development
 
-| Description | Url |
+| Description | URL |
 | :--- | :--- |
 | Original ZeroNet's guide on site development | https://zeronet.io/docs/site_development/getting_started/ |
 | The Truth about ZeroNet by [imachug](https://github.com/imachug) | https://github.com/imachug/The-Truth-about-ZeroNet |
 | How to build a decentralized chatroom in ZeroNet | http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial ([mirror](https://proxy.zeronet.dev/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial)) |
 | Tutorials on site and plugin development | http://127.0.0.1:43110/DevCenter.bit/?/ ([mirror](https://https://0net-preview.com/DevCenter.bit/?/)) |
-| Wiki on zeronet site development | http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP ([mirror](https://0net-preview.com/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP)) |
+| Wiki on ZeroNet site development | http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP ([mirror](https://0net-preview.com/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP)) |
 
 ## Proxies(Instances)
 
 **WARNING: _Do not sign in into ZeroNet through public proxies as proxies have access to the private keys and there is chance for your identity to get stolen by the proxy._**
 
-| Url |  Allows to add new sites |
+| URL |  Allows to add new sites |
 | :--- | :--- |
 | https://0net-preview.com | :heavy_multiplication_x: |
 | https://proxy.zeronet.dev | :heavy_multiplication_x: |
@@ -258,7 +258,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 ## Communities
 
-- Zeronet community on Reddit https://reddit.com/r/zeronet
+- ZeroNet community on Reddit https://reddit.com/r/zeronet
 
 
 ## Footnotes
