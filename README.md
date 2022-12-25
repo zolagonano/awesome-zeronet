@@ -259,7 +259,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 ## Communities
 
 - ZeroNet community on Reddit https://reddit.com/r/zeronet
-
+- ZeroNet community on Matrix https://matrix.to/#/#zeronetx:matrix.org
 
 ## Footnotes
 
