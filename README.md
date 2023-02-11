@@ -172,8 +172,8 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 | Repo URL | Fork | Description |
 | :--- | :---: | :--- |
-| https://github.com/ZeroNetX/ZeroNet | A fork of ZeroNet with HiddenService v3 support |
-| https://github.com/zeronet-conservancy/zeronet-conservancy | A fork of ZeroNet that is dedicated to sustaining existing p2p network and developing its values of decentralization and freedom, while gradually switching to a better designed network |
+| https://github.com/ZeroNetX/ZeroNet | :heavy_check_mark: | A fork of ZeroNet with HiddenService v3 support |
+| https://github.com/zeronet-conservancy/zeronet-conservancy | :heavy_check_mark: | A fork of ZeroNet that is dedicated to sustaining existing p2p network and developing its values of decentralization and freedom, while gradually switching to a better designed network |
 
 ### Rust
 
