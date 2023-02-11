@@ -105,6 +105,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | :--- | :---: | :---: | :--- | :---: |
 | ZeroMe | `1MeFqFfFFGQfa1J3gJyYYUvb5Lksczq7nH` | `me.zeronetwork.bit` | Twitter-like social media | :heavy_multiplication_x: |
 | Sakana | `1SAkaNabHzB8ovdGXxfEbmfdWkJ6ay3yt` | `sakana.bit` | An alternative frontend to ZeroMe | :heavy_multiplication_x: |
+| XeroMe | `1JgcgZQ5a2Gxc4Cfy32szBJC68mMGusBjC` | N/A | ZeroMe with an easy-on-eyes theme | :heavy_check_mark: |
 
 ### Movies
 
