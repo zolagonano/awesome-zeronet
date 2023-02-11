@@ -108,7 +108,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 | Name | Address | Domain Name | UniqueIDs | Centralized | Description |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| ZeroId | `1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz` | `zeroid.bit` | Sample trusted authorization provider |
+| ZeroId | `1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz` | `zeroid.bit` | :heavy_check_mark: | :heavy_check_mark: | Sample trusted authorization provider |
 | KaffieId | `1K3tM7irQqSX4Hx3JvNgkimkQzY6jPtBfz` | `kaffie.bit` | :heavy_multiplication_x: | :heavy_multiplication_x: | Decentralized ID provider |
 
 ### Productivity Tools
