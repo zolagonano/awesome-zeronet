@@ -134,7 +134,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 | Name | Description | Address | Domain Name |
 | :--- | :--- | :---: | :--- |
-| Zero Bird | Flappy Bird inside ZeroNet |` 1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf` | N/A |
+| Zero Bird | Flappy Bird inside ZeroNet | `1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf` | N/A |
 | Snake Game | Simple snake game inside ZeroNet | `1JsJ1JitaLboc8pvo4fxh9dvP8mt6toPrE` | N/A |
 | Pac Man | PacMan inside ZeroNet | `14Q1So3DH9qvHts5VuLDgqGp7yCXceujop` | N/A |
 | ZeroSudoku |  Simple Sudoku game inside ZeroNet | `16Gn4QBd8iXFnDcVEcsmYw8soBKCeBezzS` | N/A |
