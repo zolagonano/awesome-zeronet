@@ -97,6 +97,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Name | Description | Address | Domain Name |
 | :--- | :--- | :---: | :--- |
 | XeroMe | ZeroMe with an easy-on-eyes theme | `1JgcgZQ5a2Gxc4Cfy32szBJC68mMGusBjC` | N/A |
+| 0Hub | List Of ZeroMe Hubs | `1GLndW2MJn7japuF3X2tbfBqgPMR52zaLQ` | `0hub.bit` |
 
 ### Movies
 
