@@ -249,4 +249,4 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 If you find this project helpful and would like to show your appreciation, consider making a donation. Your contributions helps me dedicate more time working on Free and open-source projects :heart:
 
-[https://zolagonano.github.io/support](https://zolagonano.github.io/support]
+[https://zolagonano.github.io/support](https://zolagonano.github.io/support)
