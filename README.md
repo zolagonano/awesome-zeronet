@@ -90,6 +90,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | ZeroDev Talk | Place for developers to collaborate | `142jqssVAj2iRxMACJg2dzipB5oicZYz5w` | N/A |
 | ZeroTorrent | Torrent sharing forum | `192dZ1EG5tU7PnCfuwGMDEBrr2eLqvs4t3` | `ZeroTorrent.bit` |
 | New GFW Talk | Forum dedicated to Great Firewall of China | `19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9` | `NewGFWTalk.bit` |
+| IranTalk | Forum dedicated to Persian speaking users of ZeroNet | `1AS355T7MGApApoBeE9JgxvvvDxf33Eyh1` | N/A |
 
 ### Mail Providers
 
