@@ -88,6 +88,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Programming.net | A forum about programming | `17YUF4geTD7gBDPeMtQtnV7uhhNcjrYi9u` | N/A |
 | ZeroNet DevZone | ZeroNet core & plugins: issues, pull requests, ideas, RFCs and documentation | `18ryVioVmwFYzhRZKTjKqGYCjkUjoxH3k6` | N/A |
 | ZeroDev Talk | Place for developers to collaborate | `142jqssVAj2iRxMACJg2dzipB5oicZYz5w` | N/A |
+| ZeroTorrent | Torrent sharing forum | `192dZ1EG5tU7PnCfuwGMDEBrr2eLqvs4t3` | `ZeroTorrent.bit` |
 
 ### Mail Providers
 
