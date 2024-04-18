@@ -21,6 +21,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
   - [Mail Providers](#mail-providers)
   - [Social Media Zites](#social-media-zites)
   - [Movies](#movies)
+  - [Books][#books]
   - [ID Providers](#id-providers)
   - [Productivity Tools](#productivity-tools)
   - [Block lists](#block-lists)
@@ -109,6 +110,11 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | :--- | :--- | :---: | :--- |
 | NGnoidTV | Video site, also named KopyKate | `18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh` | big.kopykate.bit |
 | Play | Movie torrents | `1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp` | `0play.bit` |
+
+### Books
+| Name | Description | Address | Domain Name |
+| :--- | :--- | :---: | :--- |
+| ZeroPub | Book torrents | `1DYwX4W1qfSaiihfN5gW6ahLp5332TawH5` | `zeropub.bit` |
 
 ### ID Providers
 
