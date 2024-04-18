@@ -21,7 +21,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
   - [Mail Providers](#mail-providers)
   - [Social Media Zites](#social-media-zites)
   - [Movies](#movies)
-  - [Books][#books]
+  - [Books](#books)
   - [ID Providers](#id-providers)
   - [Productivity Tools](#productivity-tools)
   - [Block lists](#block-lists)
