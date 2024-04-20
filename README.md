@@ -161,6 +161,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Taxi Drift | 2D taxi driving game | `1EzPDDHciaG9AH4ErxsmAKsF4hsrJPktiM` | N/A |
 | Game of Life | Conway's Game of Life inside ZeroNet | `19TrFbEUS1mdznSX24FqnxZgftzNpxCXv8` | N/A |
 | TypinMaster | Simple game to test your typing speed | `1KNvxg3ww7ZLxZRPT8MX4tRcFxwGhWRRK3` | N/A |
+| Games Nintendo | JSNES Nintendo Entertainment System Emulator | `19za8TViGJF4xdvkQHLXK2UCb2gLC1nSVT` | N/A |
 
 ### Developer Tools
 
