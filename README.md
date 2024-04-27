@@ -54,6 +54,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Dream Search | Dream Search - The most data scanning search engine in ZeroNet | `1JBFNPrAGp1nQX6RsAN6oRqCfvtoeWoion` | N/A |
 | Search And Index Zites |  A Simple search engine and index | `1xiwbXaTbo9XU32hEpW4NyjZHrugSFdo6` | N/A |
 | 0find0go | Every public website on ZeroNet in one search engine | `1Jj3kjHmjPYWGfCdyd8Pr6pm5sJawrLmrp` | N/A |
+| Important Zites | Index of user-added zites | `15Pf9VVuDT8NSWj1qUBh4V89yPmrmzRw6a` | N/A |
 
 ### Zite Indexes
 
