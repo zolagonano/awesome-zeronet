@@ -65,6 +65,8 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | ZeroWiki | ZeroWiki site list | `138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:list-of-zites` | N/A |
 | Search And Index Zites | Site directory by Krixano | `1xiwbXaTbo9XU32hEpW4NyjZHrugSFdo6` | N/A |
 | ZeroShortener | Make your zerolinks way shorter and easier to remember | `1GNTAKCimBv5xEnt7QvkDn8sTkEPj7ZYTL` | `0sh.bit` |
+| ZeroCentral | A Zite index with ability to sort by votes | `1Dt7FR5aNLkqAjmosWh8cMWzJu633GYN6u` | N/A |
+
 
 ### Chat Rooms
 
