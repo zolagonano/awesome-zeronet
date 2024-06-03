@@ -232,6 +232,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | :--- | :--- |
 | A Very Technical Look at ZeroNet | https://znano.eu.org/blog/posts/a-very-technical-look-at-zeronet |
 | A Guide to Security, Privacy, and Anonymity on ZeroNet | https://znano.eu.org/blog/posts/a-guide-to-security-privacy-and-anonymity-on-zeronet |
+| Creating an Encrypted Portable Container for ZeroNet | https://znano.eu.org/blog/posts/creating-an-encrypted-portable-container-for-zeronet |
 
 ### Installation
 
