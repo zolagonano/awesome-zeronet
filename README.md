@@ -126,6 +126,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | eh anime? | Anime torrents | `1E8Z8sk3cGeWdQumBaYEh6LraqC2BRnutV` | N/A |
 | StreamZ | Real-time streaming platform for Zeronet | `1BTZh5pymEKzMYr3qgDtgr4dMmap77QvEs` | N/A |
 | Box HD | TV series boxsets in HD | `1BoxHDypbjd2yakQtjPwwbJMWR1KbHt1j9` | N/A |
+| Play Anime | Anime torrents | `1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG` | N/A |
 
 ### Books
 | Name | Description | Address | Domain Name |
